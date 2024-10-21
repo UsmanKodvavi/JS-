@@ -65,3 +65,102 @@
     // document.write(sentence)
 
     // sentence.toString
+
+    // Assigment No 10
+
+
+    // var array = [
+    //     "karachi" , "muktan" , "lahore"
+    //     ["islamabad" , "Quetta" , "Hyderabad"]
+    // ];
+
+    // document.write(array)
+
+    // var numarr = [
+    //     [2 , 4 , 6],
+    //     [8 , 10 , 12],
+    //     [1 , 3 , 5]
+    // ];
+
+    // document.write(numarr)
+
+
+
+    // for(var i = 1 ; i <= 10; i++ ){
+
+    //     console.log("i" , i);   
+
+    // }
+
+// var user = +prompt("Enter your table num");
+// var userlimit = +prompt("What the Limits of Table");
+
+//     for (var i = 1; i <= 100; i++) {
+//   document.write("2 x " + i + "=" + 2 * i  + "<br />");
+// }
+
+// var fruits = ["apple" , "banana" , "mango"];
+
+// document.write(fruits);
+
+// for(var i = 5; i>
+//     100; i+5){
+//     console.log("i" , i)
+// }
+
+// Assigment No 11
+
+// var userCity = prompt("Enter Your City!");
+// var cities = ["lahore", "islamabad", "karachi", "multan", "delhi", "mumbai"];
+// for (var i = 0; i < cities.length; i++) {
+//   if (cities[i] == "karachi") {
+//     document.write("welcome" + cities[i]);
+//     break;
+//   }
+// }
+// for (var i = 0; i < cities.length; i++) {
+//   console.log(cities[i]);
+//   if (cities[i] == "karachi") {
+//     alert("Welcome");
+//     break;
+//   }
+// }
+// if(cities[0] == "karachi"){
+//     console.log("WElcome")
+// }else if(cities[1] == "karachi"){
+//     console.log("WElcome")
+// }
+// else if(cities[2] == "karachi"){
+//     console.log("WElcome")
+// }
+// else if(cities[3] == "karachi"){
+//     console.log("WElcome")
+// }
+// else if(cities[4] == "karachi"){
+//     console.log("WElcome")
+// }
+
+// Assigment No 12
+
+
+
+// var arr = ["apple" , "karachi"]
+// var str = "saylani"
+// console.log(str[2])
+// console.log(str.length)
+// 
+
+
+// var str = "SaylaNi maSS it tRaining";
+// var strUpper = str.toUpperCase()
+// var strUpper = str.toLowerCase()
+// document.write("<h1>" + str + "</h1>");
+// document.write(`<h1> ${strUpper} </h1> `);
+//
+// document.write("1 \n 2 ");
+// document.write("\n 2");
+// var helloWorld
+
+
+
+   
